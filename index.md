@@ -1,4 +1,7 @@
 # The impact of Covid-19 on movie theater operations and streaming media development
+2020 Spring CYPLAN 255
+Rongshan Zhang
+## 
 
 ## Welcome to GitHub Pages
 
