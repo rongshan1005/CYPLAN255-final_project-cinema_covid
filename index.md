@@ -25,4 +25,4 @@ For data analysis, the author will use some country level data from 2019 to 2022
 For geographical analysis, the author will use both country and county level data. By comparing the locations of new and closed cinemas after covid with the severity level of covid, it is possible to analyze whether there is a correlation between them.
 
 ## Data Analysis
-![image](CYPLAN255-final_project-cinema_covid/006EWTQQly1gh7lpaca7gj30u01hc7ht.jpg)
+![](/006EWTQQly1gh7lpaca7gj30u01hc7ht.jpg)
