@@ -2,6 +2,8 @@
 2020 Spring CYPLAN 255   
 Rongshan Zhang
 ## Research Question
+The outbreak of covid has limited some public activities, and the use of indoor public space such as movie theaters has been restricted. At the same time, the development of streaming media begins to provide people with new movie watching options.
+## Methodology
 
 ## Welcome to GitHub Pages
 
