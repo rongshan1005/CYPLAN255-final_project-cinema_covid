@@ -1,3 +1,5 @@
+# The impact of Covid-19 on movie theater operations and streaming media development
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/rongshan1005/CYPLAN255-final_project-cinema_covid/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
