@@ -4,7 +4,7 @@
 
 The outbreak of covid-19 has limited some public activities, and the use of indoor public space such as movie theaters has been restricted. At the same time, the development of streaming media begins to provide people with new movie watching options.
 
-In this research, the author wants to explore whether there is a correlation between covid-19 and the change of cinema numbers by means of data and geographical analysis. And further analyze whether this change has driven a shift in the way people watch movies from traditional cinemas to streaming media.
+In this research, the author wants to explore whether there is a correlation between COVID-19 and the development of movie industry by means of data and geographical analysis. And further analyze whether this change has driven a shift in the way people watch movies from traditional cinemas to streaming media.
 
 <div align=center>
 <img width="400" src="image/00.jpg"/>
@@ -18,7 +18,7 @@ In this research, the author wants to explore whether there is a correlation bet
 
 **Time Range: 2019-2022**
 
-This research will use some country level data from 2019 to 2022. By observing the number of new and closed cinemas before and after the covid, we can see the impact of covid on the number of cinemas.
+This research will use some country level data from 2019 to 2022. By observing the number of new and closed cinemas before and after the COVID-19, we can see the impact of COVID-19 on the number of cinemas.
 
 ### 2.2 Geographical Analysis
 
@@ -26,7 +26,7 @@ This research will use some country level data from 2019 to 2022. By observing t
 
 **Time Range: 2020-2022**
 
-The author will use both country and county level data in geographical analysis. By comparing the locations of new and closed cinemas with the severity level of covid-19, it is possible to analyze whether there is a correlation between them.
+The author will use both country and county level data in geographical analysis. By comparing the locations of new and closed cinemas with the severity level of COVID-19, it is possible to analyze whether there is a correlation between them.
 
 ## 3.Data Analysis
 
