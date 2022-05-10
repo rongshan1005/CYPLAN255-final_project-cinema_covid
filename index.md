@@ -31,4 +31,5 @@ For geographical analysis, the author will use both country and county level dat
 In 2019, the number of new and closed cinemas remains largely balanced, but in 2020 and 2021, the number of closed cinemas is much greater than new cinemas. And the number of closed cinemas in 2020 and 2021 is significantly higher than 2019. 
 
 <div align=center><img width="500" src="/image/01.png"/></div>
+
 <div align=center><img width="500" src="/image/02.png"/></div>
