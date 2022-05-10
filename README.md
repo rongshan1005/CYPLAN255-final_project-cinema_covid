@@ -10,9 +10,6 @@ In this research, I want to explore whether there is a correlation between covid
 <img width="400" src="image/00.jpg"/>
 </div>
 
-![](/image/00.jpg)
-<img src="/image/00.jpg"/>
-
 ## Methodology
 
 ### Data Analysis
@@ -36,7 +33,7 @@ For geographical analysis, the author will use both country and county level dat
 In 2019, the number of new and closed cinemas remains largely balanced, but in 2020 and 2021, the number of closed cinemas is much greater than new cinemas. And the number of closed cinemas in 2020 and 2021 is significantly higher than 2019. 
 
 <div align=center>
-<img width="500" src="https://github.com/rongshan1005/CYPLAN255-final_project-cinema_covid/blob/gh-pages/image/01.png"/>
+<img width="500" src="image/01.png"/>
 </div>
 
-<div align=center><img width="500" src="https://github.com/rongshan1005/CYPLAN255-final_project-cinema_covid/blob/gh-pages/image/02.png"/></div>
+<div align=center><img width="500" src="image/02.png"/></div>
