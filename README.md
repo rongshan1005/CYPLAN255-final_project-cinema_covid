@@ -10,6 +10,7 @@ In this research, I want to explore whether there is a correlation between covid
 <img width="400" src="/image/00.jpg"/>
 </div>
 
+![](/image/00.jpg)
 <img src="/image/00.jpg"/>
 
 ## Methodology
