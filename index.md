@@ -81,3 +81,11 @@ The following data shows that Netflix shows a significant upward trend in the nu
 <img width="400" src="image/22.png"/> <img width="400" src="image/23.png"/>
 </div>
 
+Meanwhile, Netflix exported more original content in 2020 than it has in the past. It can be speculated that the restriction caused by COVID-19 has prompted the streaming medias to put more effort into creating quality contents.
+
+And according to user feedback, users are generally using Netflix for more hours in 2020 than ever before, which proved that the pandemic has prompted people to give more of their entertainment time to streaming rather than the traditional movie industry.
+
+<div align=center>
+<img width="400" src="image/21.png"/> <img width="400" src="image/24.png"/>
+</div>
+
