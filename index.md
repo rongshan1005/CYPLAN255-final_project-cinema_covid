@@ -173,7 +173,7 @@ We can see that the new and closed movie theaters are all located in low-risk ar
 <img width="600" src="image/16.png"/>
 </div>
 
-div align=center>
+<div align=center>
 <img width="600" src="image/15.png"/>
 </div>
 
@@ -181,11 +181,11 @@ div align=center>
 
 Comparing the population density of the Bay Area counties with the location of movie theaters, it can be seen that the new and closed movie theaters are basically located in areas with high population density. This result is consistent with the conjecture.
 
-div align=center>
+<div align=center>
 <img width="600" src="image/19.png"/>
 </div>
 
-div align=center>
+<div align=center>
 <img width="600" src="image/20.png"/>
 </div>
 
