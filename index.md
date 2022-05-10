@@ -216,5 +216,5 @@ https://eric.clst.org/tech/usgeojson/
 [6] ‘Netflix Subscriber and Growth Statistics: How Many People Watch Netflix in 2022?’ from BackLinko.
 https://backlinko.com/netflix-users
 
-[7] ‘Box office in the U.S. - statistics & facts’ from Statista.
-https://www.statista.com/topics/852/box-office/
+[7] [‘Box office in the U.S. - statistics & facts’ from Statista.]
+(https://www.statista.com/topics/852/box-office/)
