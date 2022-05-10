@@ -1,8 +1,8 @@
-# The Impact of Covid-19 on Movie Industry and Streaming Media Development
+# The Impact of COVID-19 on Movie Industry and Streaming Media Development
 
 ## 1.	Motivation
 
-The outbreak of covid-19 has limited some public activities, and the use of indoor public space such as movie theaters has been restricted. At the same time, the development of streaming media begins to provide people with new movie watching options.
+The outbreak of COVID-19 has limited some public activities, and the use of indoor public space such as movie theaters has been restricted. At the same time, the development of streaming media begins to provide people with new movie watching options.
 
 In this research, the author wants to explore whether there is a correlation between COVID-19 and the development of movie industry by means of data and geographical analysis. And further analyze whether this change has driven a shift in the way people watch movies from traditional cinemas to streaming media.
 
