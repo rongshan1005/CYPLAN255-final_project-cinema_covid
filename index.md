@@ -71,9 +71,13 @@ Box office revenues over the past 20 years reflect the same trend. After adjusti
 
 ### 3.3 Streaming Media Subscription
 
-The streaming media industry also changed dramatically during the COVID-19 pandemic. _" The BBC noted that the popularity of streaming services could increase, especially if more people are isolated at home, with The Guardian suggesting that non-blockbuster films may be sent to streaming more quickly than anticipated after release, to catch this market. One popular film to stream was 2011's Contagion, which moved up from being the 270th most-watched Warner Bros. film in December 2019 to become its 2nd most-watched film in 2020 (by March) and entered the top 10 on iTunes film rentals, ostensibly due to the similarities its story bears to the outbreak. The stock of Netflix increased in 2020 by March 12. The platform had released its original docuseries Pandemic: How to Prevent an Outbreak at the end of January 2020. Disney+ went live in India on March 11 via its domestic service Hotstar, eighteen days before it was set to, though Disney's shares had fallen by 23% on March 9."_
+The streaming media industry also changed dramatically during the COVID-19 pandemic. 
 
-Here, Netflix is used as an example to analyze the changing trend of streaming media. (The data below are all from Backlinko.) To this day, Netflix is still the world's highest market share streaming media company. Netflix has a 35% market share in the US, which is much higher than the other streaming media companies. Therefore, using Netflix as an example can prove the trend of the streaming media industry.
+_" The BBC noted that the popularity of streaming services could increase, especially if more people are isolated at home, with The Guardian suggesting that non-blockbuster films may be sent to streaming more quickly than anticipated after release, to catch this market. One popular film to stream was 2011's Contagion, which moved up from being the 270th most-watched Warner Bros. film in December 2019 to become its 2nd most-watched film in 2020 (by March) and entered the top 10 on iTunes film rentals, ostensibly due to the similarities its story bears to the outbreak. The stock of Netflix increased in 2020 by March 12. The platform had released its original docuseries Pandemic: How to Prevent an Outbreak at the end of January 2020. Disney+ went live in India on March 11 via its domestic service Hotstar, eighteen days before it was set to, though Disney's shares had fallen by 23% on March 9."_
+
+Here, Netflix is used as an example to analyze the changing trend of streaming media. _(The data below are all from Backlinko.)_ 
+
+To this day, Netflix is still the world's highest market share streaming media company. Netflix has a 35% market share in the US, which is much higher than the other streaming media companies. Therefore, using Netflix as an example can prove the trend of the streaming media industry.
 
 The following data shows that Netflix shows a significant upward trend in the number of subscribers and year revenue in 2020.
 
