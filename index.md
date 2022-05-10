@@ -6,7 +6,7 @@ The outbreak of covid has limited some public activities, and the use of indoor 
 
 In this research, I want to explore whether there is a correlation between covid and the change of cinema numbers by means of data and geographical analysis.And further analyze whether this change has driven a shift in the way people watch movies from traditional cinemas to streaming media.
 
-<div align=center><div scr='/image/00.jpg' widgh='180'></div>
+<div align=center><div scr='/image/00.jpg' width='180'></div>
 
 ## Methodology
 
