@@ -71,7 +71,7 @@ Box office revenues over the past 20 years reflect the same trend. After adjusti
 
 ### 3.3 Streaming Media Subscription
 
-The streaming media industry also changed dramatically during the COVID-19 pandemic. " The BBC noted that the popularity of streaming services could increase, especially if more people are isolated at home, with The Guardian suggesting that non-blockbuster films may be sent to streaming more quickly than anticipated after release, to catch this market. One popular film to stream was 2011's Contagion, which moved up from being the 270th most-watched Warner Bros. film in December 2019 to become its 2nd most-watched film in 2020 (by March) and entered the top 10 on iTunes film rentals, ostensibly due to the similarities its story bears to the outbreak. The stock of Netflix increased in 2020 by March 12. The platform had released its original docuseries Pandemic: How to Prevent an Outbreak at the end of January 2020. Disney+ went live in India on March 11 via its domestic service Hotstar, eighteen days before it was set to, though Disney's shares had fallen by 23% on March 9."
+The streaming media industry also changed dramatically during the COVID-19 pandemic. _" The BBC noted that the popularity of streaming services could increase, especially if more people are isolated at home, with The Guardian suggesting that non-blockbuster films may be sent to streaming more quickly than anticipated after release, to catch this market. One popular film to stream was 2011's Contagion, which moved up from being the 270th most-watched Warner Bros. film in December 2019 to become its 2nd most-watched film in 2020 (by March) and entered the top 10 on iTunes film rentals, ostensibly due to the similarities its story bears to the outbreak. The stock of Netflix increased in 2020 by March 12. The platform had released its original docuseries Pandemic: How to Prevent an Outbreak at the end of January 2020. Disney+ went live in India on March 11 via its domestic service Hotstar, eighteen days before it was set to, though Disney's shares had fallen by 23% on March 9."_
 
 Here, Netflix is used as an example to analyze the changing trend of streaming media. (The data below are all from Backlinko.) To this day, Netflix is still the world's highest market share streaming media company. Netflix has a 35% market share in the US, which is much higher than the other streaming media companies. Therefore, using Netflix as an example can prove the trend of the streaming media industry.
 
@@ -205,24 +205,24 @@ _https://en.wikipedia.org/wiki/Impact_of_the_COVID-19_pandemic_on_cinema_
 
 **[2] ‘Quick Stats About Movie Theaters In United States’ from SafeGraph.**
 
-https://shop.safegraph.com/data?categories=512131&countries=US&tab=core
+_https://shop.safegraph.com/data?categories=512131&countries=US&tab=core_
 
 **[3] ‘United States COVID-19 Community Levels by County’ from Centers for Disease Control and Preventioin.**
 
-https://data.cdc.gov/Public-Health-Surveillance/United-States-COVID-19-Community-Levels-by-County/3nnm-4jni
+_https://data.cdc.gov/Public-Health-Surveillance/United-States-COVID-19-Community-Levels-by-County/3nnm-4jni_
 
 **[4] ‘2020 Census Demographic Data By County’ from Data Emporium.**
 
-https://www.dataemporium.com/dataset/254/?gclid=Cj0KCQjw1N2TBhCOARIsAGVHQc7SQxgUEthlW3WAGCIZINBxuiceFD7YXU_LgdUyGzcufRc1NX4sp_IaAlaGEALw_wcB
+_https://www.dataemporium.com/dataset/254/?gclid=Cj0KCQjw1N2TBhCOARIsAGVHQc7SQxgUEthlW3WAGCIZINBxuiceFD7YXU_LgdUyGzcufRc1NX4sp_IaAlaGEALw_wcB_
 
 **[5] ‘Geojson and KML data for the United States’ from Eric Tech.**
 
-https://eric.clst.org/tech/usgeojson/
+_https://eric.clst.org/tech/usgeojson/_
 
 **[6] ‘Netflix Subscriber and Growth Statistics: How Many People Watch Netflix in 2022?’ from BackLinko.**
 
-https://backlinko.com/netflix-users
+_https://backlinko.com/netflix-users_
 
 **[7] ‘Box office in the U.S. - statistics & facts’ from Statista.**
 
-https://www.statista.com/topics/852/box-office/
+_https://www.statista.com/topics/852/box-office/_
