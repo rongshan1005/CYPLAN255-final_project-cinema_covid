@@ -7,7 +7,7 @@ The outbreak of covid-19 has limited some public activities, and the use of indo
 In this research, the author wants to explore whether there is a correlation between COVID-19 and the development of movie industry by means of data and geographical analysis. And further analyze whether this change has driven a shift in the way people watch movies from traditional cinemas to streaming media.
 
 <div align=center>
-<img width="400" src="image/00.jpg"/>
+<img width="800" src="image/00.jpg"/>
 </div>
 
 ## 2. Methodology
@@ -204,7 +204,7 @@ The locations of new and closed cinemas correspond closely to the local populati
 Contrary to the downward trend of the traditional movie industry, COVID-19 has had a positive effect on the growth of streaming media. As the pandemic has restricted the use of public spaces, streaming media has become a new favorite for daily entertainment. During the pandemic, streaming media generated a significant boost in revenue and the number of subscribers. Correspondingly, streaming media companies also invested more in producing quality original contents. It is predictable that the impact of this virtuous circle on the traditional movie industry will continue into the post-pandemic era.
 
 <div align=center>
-<img width="600" src="image/27.jpg"/>
+<img width="800" src="image/27.jpg"/>
 </div>
 
 ## 7.	References
