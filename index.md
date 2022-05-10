@@ -224,4 +224,4 @@ https://backlinko.com/netflix-users
 
 [7] ‘Box office in the U.S. - statistics & facts’ from Statista.
 
-[](https://www.statista.com/topics/852/box-office/)
+https://www.statista.com/topics/852/box-office/
