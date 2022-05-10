@@ -195,11 +195,13 @@ Comparing the population density of the Bay Area counties with the location of m
 
 ## 6.	Conclusion
 
-In terms of quantity, covid has had an impact on the change in cinema numbers in the United States. And both the number of new and closed cinemas will be affected.
+In terms of quantity, COVID-19 has had an impact on the change in cinema numbers in the United States. And both the number of new and closed cinemas will be affected.
 
-The new and closed cinema locations are related to covid. The locations of the closed cinemas are more affected. But cinema location is not linearly related to covid. It is influenced by a number of factors simultaneously. Covid is not the most dominant factor among them.
+The locations of new and closed cinemas are related to COVID-19. The locations of the closed cinemas are more affected. But cinema location is not linearly related to COVID-19. It is influenced by a number of factors simultaneously. COVID-19 is not the most dominant factor among them.
 
-The location of new and closed cinemas corresponds closely to the local population density and the number of COVID-19 patients. Based on corroborating speculation, the movie industry would be more affected by the pandemic in areas with higher population density due to the higher number of COVID-19 patients.
+The locations of new and closed cinemas correspond closely to the local population density and the number of COVID-19 patients. Based on corroborating speculation, the movie industry would be more affected by the pandemic in areas with higher population density due to the higher number of COVID-19 patients.
+
+Contrary to the downward trend of the traditional movie industry, COVID-19 has had a positive effect on the growth of streaming media. As the pandemic has restricted the use of public spaces, streaming media has become a new favorite for daily entertainment. During the pandemic, streaming media generated a significant boost in revenue and the number of subscribers. Correspondingly, streaming media companies also invested more in producing quality original contents. It is predictable that the impact of this virtuous circle on the traditional movie industry will continue into the post-pandemic era.
 
 ## 7.	References
 
