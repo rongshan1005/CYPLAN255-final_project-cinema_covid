@@ -97,7 +97,7 @@ In summary, it can be presumed that the downward movement of the movie industry 
 
 ## 4.	Geographical Analysis
 
-### 4.1 Covid-19 Population
+### 4.1 COVID-19 Population
 
 The number of people with COVID-19 by county is shown here as of March 2021. As can be seen from the figure, the locations of the movie theaters that have closed in recent years coincide to highly extent with the areas with high numbers of COVID-19 patients.
 
@@ -111,7 +111,7 @@ In line with this, the locations of the new opened cinemas are also more concent
 <img width="1000" src="image/10.png"/>
 </div>
 
-### 4.2 Community Covid-19 Level
+### 4.2 Community COVID-19 Level
 
 The number of COVID-19 patients per 100,000 people was used as a measure to classify the community COVID-19 level for each county in the US. 
 
@@ -161,7 +161,7 @@ Based on the results of the analysis, the author wants to propose a conjecture. 
 
 In the following sections, the author takes bay area counties as an example for further analysis.
 
-### 5.1 Community Covid-19 Level in Bay Area
+### 5.1 Community COVID-19 Level in Bay Area
 
 Based on the graphs, most bay area counties are low-risk areas, but the difference in the number of hospitalizations due to covid was not significant across counties.
 
