@@ -89,3 +89,20 @@ And according to user feedback, users are generally using Netflix for more hours
 <img width="400" src="image/21.png"/> <img width="400" src="image/24.png"/>
 </div>
 
+In summary, it can be presumed that the downward movement of the movie industry due to COVID-19 has brought more users to the streaming industry.
+
+## 4.	Geographical Analysis
+
+### 4.1 Covid-19 Population
+
+The number of people with COVID-19 by county is shown here as of March 2021. As can be seen from the figure, the locations of the movie theaters that have closed in recent years coincide to highly extent with the areas with high numbers of COVID-19 patients.
+
+<div align=center>
+<img width="1000" src="image/09.png"/>
+</div>
+
+In line with this, the locations of the new opened cinemas are also more concentrated in areas with a high number of COVID-19 patients. It is inferred that the location of the new cinemas may be related to the local cinema demand and the number of existing cinemas.
+
+<div align=center>
+<img width="1000" src="image/10.png"/>
+</div>
