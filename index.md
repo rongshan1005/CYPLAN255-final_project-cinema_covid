@@ -106,3 +106,57 @@ In line with this, the locations of the new opened cinemas are also more concent
 <div align=center>
 <img width="1000" src="image/10.png"/>
 </div>
+
+### 4.2 Community Covid-19 Level
+
+The number of COVID-19 patients per 100,000 people was used as a measure to classify the community COVID-19 level for each county in the US. 
+
+Nationally, the locations of the new cinemas are roughly located in medium and low-risk areas. However, they still exist in some high-risk areas. In general, the location of new cinemas does not correlate strongly with covid at the geographic level.
+
+As for closed cinemas, they are mostly located in medium and high-risk areas. Although closed cinemas also exist in some low-risk areas, there is a closer correlation between closed cinema locations and COVID-19.
+
+<div align=center>
+<img width="1000" src="image/05.png"/>
+</div>
+
+<div align=center>
+<img width="1000" src="image/06.png"/>
+</div>
+
+### 4.3 Density of COVID-19 Patients
+
+The author obtained COVID-19 density data for each county by dividing the number of local COVID-19 patients by the total population. 
+
+Since the density of COVID-19 patients did not differ significantly in the vast majority of counties, no significant correspondence between patient density and cinema location was produced.
+
+<div align=center>
+<img width="1000" src="image/12.png"/>
+</div>
+
+<div align=center>
+<img width="1000" src="image/11.png"/>
+</div>
+
+### 4.4 Population and Population Density
+
+Considering that the strongest correlation between cinema location and the number of COVID-19 patients was found among the above parameters, the author added a geographical analysis of the correlation between population density and the location of cinema in each county.
+
+From the results, the locations of the new and closed cinemas were mostly concentrated in counties with high population density, which is consistent with the results of the analysis of the number of COVID-19 patients and the location of cinemas in the above section.
+
+<div align=center>
+<img width="1000" src="image/07.png"/>
+</div>
+
+<div align=center>
+<img width="1000" src="image/08.png"/>
+</div>
+
+## 5.	Conjecture
+
+Based on the results of the analysis, the author wants to propose a conjecture. COVID-19 is more likely to spread in areas of high population density. In such areas, the movie industry experienced a greater drop in revenue before and after the outbreak of COVID-19. As a result, movie theater operations in such areas are also more significantly impacted by COVID-19.
+
+In the following sections, the author takes bay area counties as an example for further analysis.
+
+### 5.1 Community Covid-19 Level in Bay Area
+
+Based on the graphs, most bay area counties are low-risk areas, but the difference in the number of hospitalizations due to covid was not significant across counties.
