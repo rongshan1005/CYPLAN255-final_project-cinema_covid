@@ -203,6 +203,10 @@ The locations of new and closed cinemas correspond closely to the local populati
 
 Contrary to the downward trend of the traditional movie industry, COVID-19 has had a positive effect on the growth of streaming media. As the pandemic has restricted the use of public spaces, streaming media has become a new favorite for daily entertainment. During the pandemic, streaming media generated a significant boost in revenue and the number of subscribers. Correspondingly, streaming media companies also invested more in producing quality original contents. It is predictable that the impact of this virtuous circle on the traditional movie industry will continue into the post-pandemic era.
 
+<div align=center>
+<img width="600" src="image/27.jpg"/>
+</div>
+
 ## 7.	References
 
 **[1] ‘Impact of the COVID-19 pandemic on cinema’ from Wikipedia.**
