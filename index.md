@@ -14,7 +14,7 @@ In this research, I want to explore whether there is a correlation between covid
 
 **Geographical Range: United States**
 
-**Time Range: 2019-2022****
+**Time Range: 2019-2022**
 
 For data analysis, the author will use some country level data from 2019 to 2022. By observing the number of new and closed cinemas before and after the covid, we can see the impact of covid on the number of cinemas.
 
