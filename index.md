@@ -20,6 +20,10 @@ In this research, the author wants to explore whether there is a correlation bet
 
 This research will use some country level data from 2019 to 2022. By observing the number of new and closed cinemas before and after the COVID-19, we can see the impact of COVID-19 on the number of cinemas.
 
+In addition to the number of movie theaters, the number of annual ticket sales and annual box office are also used as indicators to judge the trend of the movie industry. By analyzing the trends in annual ticket sales and annual box office, we can further determine whether COVID-19 has had an impact on the movie industry.
+
+In terms of streaming media industry development, the author bases the analysis on annual streaming media related data provided by BackLinko. By analyzing data such as annual subscriber number and annual revenue of streaming media, we can determine the trend of the streaming media industry during the pandemic.
+
 ### 2.2 Geographical Analysis
 
 **Geographical Range: From United States to Bay Area Counties**
