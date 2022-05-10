@@ -199,22 +199,28 @@ The location of new and closed cinemas corresponds closely to the local populati
 
 ## 7.	References
 [1] ‘Impact of the COVID-19 pandemic on cinema’ from Wikipedia.
+
 https://en.wikipedia.org/wiki/Impact_of_the_COVID-19_pandemic_on_cinema
 
 [2] ‘Quick Stats About Movie Theaters In United States’ from SafeGraph.
+
 https://shop.safegraph.com/data?categories=512131&countries=US&tab=core
 
 [3] ‘United States COVID-19 Community Levels by County’ from Centers for Disease Control and Preventioin.
+
 https://data.cdc.gov/Public-Health-Surveillance/United-States-COVID-19-Community-Levels-by-County/3nnm-4jni
 
 [4] ‘2020 Census Demographic Data By County’ from Data Emporium.
+
 https://www.dataemporium.com/dataset/254/?gclid=Cj0KCQjw1N2TBhCOARIsAGVHQc7SQxgUEthlW3WAGCIZINBxuiceFD7YXU_LgdUyGzcufRc1NX4sp_IaAlaGEALw_wcB
 
 [5] ‘Geojson and KML data for the United States’ from Eric Tech.
+
 https://eric.clst.org/tech/usgeojson/
 
 [6] ‘Netflix Subscriber and Growth Statistics: How Many People Watch Netflix in 2022?’ from BackLinko.
+
 https://backlinko.com/netflix-users
 
-[7] [‘Box office in the U.S. - statistics & facts’ from Statista.]
+[7] ‘Box office in the U.S. - statistics & facts’ from Statista.
 (https://www.statista.com/topics/852/box-office/)
